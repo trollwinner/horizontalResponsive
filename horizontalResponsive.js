@@ -1,3 +1,7 @@
+/*
+ * horizontalResponsive - v.1.0.0
+ * https://github.com/trollwinner
+ */
 (function ($) {
     'use strict';
     $.fn.horizontalResponsive = function () {
